@@ -4,11 +4,10 @@
 
 ## Description
 
-I opend up the Affirm app on my iPhone one day and was curious to how the home page was created. I used a UICollectionView and here is my solution
+I opend up the Affirm app on my iPhone one day and was curious to how the home page was created. I used a UICollectionView and here is my solution and created the UI Programmatically.
 
 Enjoy.
 
-![alt text](https://s3.amazonaws.com/diegophotos/github/StockPhoto_2.png)
 
 ## Built With
 
