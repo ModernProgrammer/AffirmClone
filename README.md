@@ -21,7 +21,7 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 ## Authors
 
-* **Diego E Bustamante** - *Initial work* - [AffirmClone](https://github.com/AffirmClone)
+* **Diego E Bustamante** -  [Github](https://github.com/ModernProgrammer)
 
 
 ## License
